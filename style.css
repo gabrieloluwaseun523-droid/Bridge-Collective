@@ -198,18 +198,7 @@ footer{
         flex-direction: column;
         border: none;
     }
-    .parent-one{
-        border: none;
-        cursor: pointer;
-    }.parent-two{
-        border: none;
-        cursor: pointer;
-    }
-    .parent-three{
-        border: none;
-        cursor: pointer;
-    }
-    .parent-four{
+    .parent-one, .parent-two, .parent-three, .parent-four{
         border: none;
         cursor: pointer;
     }
